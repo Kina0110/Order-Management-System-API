@@ -83,22 +83,6 @@ This project provides an API for managing orders and their associated items. It 
 
 ---
 
-## How to Run
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone <[repository_url](https://github.com/Fagun06/Order-Management-System-API)>
-  
-   ```
-2. Configure the database connection in the `config` file.
-3. Run the application:
-   ```bash
-   npm start
-   # or for Python
-   python app.py
-   ```
----
-
 ## Examples
 
 ### Create Order
