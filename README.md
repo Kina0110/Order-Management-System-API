@@ -1,4 +1,4 @@
-# Task 3 - Order Management API
+# Order Management API
 
 ## Description
 This project provides an API for managing orders and their associated items. It supports CRUD operations, filtering, pagination, and bulk insertion. Additionally, the API enables calculating total sales grouped by date.
